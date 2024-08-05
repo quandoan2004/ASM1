@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "title": "quandoan11",
+      "image": "https://picsum.photos/328/442",
+      "price": "100",
+      "category": "Eckige Töpfe",
+      "id": 12
+    },
+    {
+      "title": "QUan11",
+      "price": "11110",
+      "image": "https://picsum.photos/328/442",
+      "category": "quandoan",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "name": "Eckige Töpfe",
+      "id": 5
+    },
+    {
+      "name": "Runde Töpfe",
+      "id": 6
+    },
+    {
+      "name": "Untersetzer",
+      "id": 7
+    },
+    {
+      "name": " Pflanzschalen",
+      "id": 8
+    },
+    {
+      "name": "quandoan",
+      "id": 9
+    },
+    {
+      "name": "quandoan24",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "email": "quandoan2409@gmail.com",
+      "password": "$2a$10$VpP/PXRR8RqqZ3w1OXTrIORbovaLuDhkJTKolwHLswGlRTToZeYoi",
+      "id": 1
+    },
+    {
+      "email": "quandoan240999@gmail.com",
+      "password": "$2a$10$ZIHIlfa3aRh7h1E4fAMceeFxssLZpu0E9N0.3LoKQzlNefAWJ5oAq",
+      "id": 2
+    },
+    {
+      "email": "e@gmail.com",
+      "password": "$2a$10$M.BdnRE7IDU6TSVWvP76He53LT0BS/c/JbIQvX673mMKgQzjsqNsq",
+      "id": 3
+    },
+    {
+      "email": "quandoan24091@gmail.com",
+      "password": "$2a$10$boAdBHNGnGaossUtnL3Yi.lLNpVbPdy5hgkUWIItJsosl.cePNWWy",
+      "id": 4
+    }
+  ]
+}
